@@ -1,0 +1,11 @@
+{
+    "data_path":"",
+    "file": "IN_CEFPMED0000.json.gz",
+    "parse_negotiate_arrangement": 1,
+    "billing_code": ["99213", "45378", "73721", "27130","80061","99285"],
+    "parse_provider_reference":1,
+    "max_n_of_group_id":80000,
+    "start_from_unzip": 1,
+    "billing_code_file": "IN_CEFPMED0000",
+    "map_group_ids":1
+}
